@@ -2,7 +2,7 @@ import React from 'react'
 
 const CarWidget = () => {
   return (
-    <div>Icono</div>
+    <div>Icono </div>
   )
 }
 
