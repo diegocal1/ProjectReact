@@ -3,7 +3,7 @@ import CarWidget from './CarWidget'
 
 const NavBar = () => {
   return (
-    <div><h1>Macchiato Coffe and Cakes</h1>
+    <div><h1>Macchiato Cakes</h1>
     <ul>
         <li>Carrot Cake</li>
         <li>Brownie de Chocolate</li>
